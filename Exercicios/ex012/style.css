@@ -1,0 +1,29 @@
+
+
+h2{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: justify;
+    font-size: 20px;
+    background-color: darkorange;
+    width: 600px;
+    color: rgb(0, 0, 119);
+}
+    div:hover > a{
+    
+    background-color:darkred;
+    color: white;
+    width: 200px;
+    display: block;
+
+}
+
+div  > a{
+  
+    display: none;
+    width: 200px;
+}
+
+div:hover {
+    
+    color: darkred;
+}
