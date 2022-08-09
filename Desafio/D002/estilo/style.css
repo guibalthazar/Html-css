@@ -48,10 +48,10 @@ section{
 padding-top: 10vh;
 padding-bottom: 10vh;   
 line-height: 2em;
-padding-left: 30px;
+padding-left: 30px; 
 font-family: var(--font3);
 font-size: 2em;
-}
+}bvf
 section> p{
     padding-bottom: 2em;
 }
@@ -78,6 +78,7 @@ section#img01{
 background-image: url(../imagens/background001.jpg) ;
 background-position: right center;
 background-size:cover;
+
 }
 section#img02{
 background-image: url(../imagens/background002.jpg);
